@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="موبایل مرتضی | فروش و تعمیرات تخصصی موبایل در گرگان با بیش از 17 سال سابقه.">
+  <meta name="keywords" content="موبایل مرتضی, فروش موبایل گرگان, تعمیر موبایل, قاب گلس هدفون ایرپاد, مجتمع پاداش گرگان">
+  <meta name="author" content="MOBILE MORTEZA">
+  <title>موبایل مرتضی | درباره ما</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      direction: rtl;
+      background-color: #f5f5f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #0066cc;
+    }
+    ul {
+      padding-right: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>درباره ما</h1>
+    <p><strong>موبایل مرتضی (MOBILE MORTEZA)</strong> با بیش از 17 سال سابقه درخشان در زمینه فروش و تعمیرات تخصصی موبایل، یکی از معتبرترین مراکز موبایل در گرگان است.</p>
+    <p>ما با تکیه بر تجربه، مهارت، و رضایت مشتریان، تمام خدمات مرتبط با گوشی‌های هوشمند را ارائه می‌دهیم؛ از فروش گوشی و لوازم جانبی تا تعمیرات صفر تا صد.</p><h2>خدمات ما شامل:</h2>
+<ul>
+  <li>فروش قاب، گلس، هدفون، ایرپاد و ساعت هوشمند</li>
+  <li>تعمیرات تخصصی انواع گوشی‌های موبایل</li>
+  <li>مشاوره خرید و فروش گوشی</li>
+</ul>
+
+<h2>راه‌های ارتباط با ما:</h2>
+<ul>
+  <li><strong>خرید و فروش:</strong> 09119003508</li>
+  <li><strong>تعمیرات:</strong> 09368884602 – 09115095507</li>
+</ul>
+
+<h2>آدرس فروشگاه:</h2>
+<p>گرگان، سرخواجه، مجتمع تجاری پاداش، پلاک 16</p>
+
+  </div>
+</body>
+</html>
